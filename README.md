@@ -1,8 +1,8 @@
 # EmployeeDetails_Web
 ### Working
-I connected the Employee.php and Employee2.php with the **Employee.php**.
+I connected the Employee.php and Employee2.php with the **Employee1.php**.
 
-When you open the code run *Employee.php* and then click on the **LOCATION** button to view the Location with respect to mean of aggregated currSalary of employees.
+When you open the code run *Employee1.php* and then click on the **LOCATION** button to view the Location with respect to mean of aggregated currSalary of employees.
 
 Then click on the **HOME** buttton to view the default details of Employees data.
 
