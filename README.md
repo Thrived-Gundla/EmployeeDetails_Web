@@ -21,8 +21,8 @@ Run php -S "localhost/Employee/Employee1.php" on your terminal.
 [Visit link](http://localhost/Employee/Employee1.php) to see the project.
 
 ### Built With
-*Visual Studio 1.56.2*
+- *Visual Studio 1.56.2*
 
-*phpmyadmin xampp 3.3.0.0*
+- *phpmyadmin xampp 3.3.0.0*
 
-*MySql Workbench 8.0.25*
+- *MySql Workbench 8.0.25*
