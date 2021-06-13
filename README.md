@@ -18,7 +18,7 @@ And this is the working.
 Download the project to the desired directory on your computer.
 Run php -S "localhost/Employee/Employee1.php" on your terminal.
 
-Like http://localhost/Employee/Employee1.php to see the site of project.
+[Visit link](http://localhost/Employee/Employee1.php) to see the project.
 
 ### Built With
 *Visual Studio 1.56.2*
